@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/baptiste.verdier/Documents/GitHub/Your_Dad_Is_Dying/Your_Dad_Is_Dying/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/baptiste.verdier/Documents/GitHub/Your_Dad_Is_Dying/Your_Dad_Is_Dying/Content/Input/Actions/IA_Run.uasset"
+			]
+		}
+	]
+}
